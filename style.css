@@ -316,6 +316,9 @@ section {
 
 #experience {
   position: relative;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .experience-sub-title {
